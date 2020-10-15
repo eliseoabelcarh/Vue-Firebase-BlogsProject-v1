@@ -1,4 +1,6 @@
-# first-vue-project
+# Vue Js - Firebase - pure CSS - API Rest 
+# Blogs Project 
+
 
 ## Project setup
 ```
